@@ -11,7 +11,7 @@ export default defineAppConfig({
     header: {
       position: 'left', // possible value are : | 'left' | 'center' | 'right'
       logo: {
-        path: '/Logo.png', // path of the logo
+        path: '/2023-Logo All Black (RGB) EPS.svg', // path of the logo
         pathDark: '/logo-dark.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
         alt: 'alpine' // alt of the logo
       }
