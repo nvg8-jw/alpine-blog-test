@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
     title: 'NVG8',
-    description: 'The minimalist blog theme',
+    description: 'Ecosystem Advisory Services',
     image: {
       src: '/social-card-preview.png',
       alt: 'An image showcasing my project.',
