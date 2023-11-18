@@ -72,6 +72,7 @@ jobs:
           NUXT_PUBLIC_STUDIO_API_URL: https://api.nuxt.studio
           NUXT_PUBLIC_STUDIO_TOKENS: 249ebe08a3b247f6e76d2d0852afc0c6f104cb2e773de622c475ae3ca4a48c68
 
+
       - name: Add .nojekyll file
         run: touch .output/public/.nojekyll
 
